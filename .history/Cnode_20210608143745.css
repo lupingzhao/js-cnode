@@ -1,0 +1,29 @@
+.bgc-b {
+    background-color: rgb(68, 68, 68);
+}
+
+.m-10 {
+    margin: 10px 0 10px 30px;
+    color: rgb(204, 204, 204);
+    font-size: 14px;
+}
+
+.m-10:hover {
+    color: white;
+}
+
+.input_ipt {
+    width: 200px;
+    height: 25px;
+    text-indent: 2em;
+    background-color: rgb(136, 136, 136);
+    border-radius: 20px;
+
+}
+
+.icon-sousuo {
+    font-size: 12px !important;
+    position: absolute;
+    left: 10px;
+    top: 8px;
+}

@@ -1,0 +1,75 @@
+.bgc-bj {
+    background-color: rgb(68, 68, 68);
+}
+
+.h-hav {
+    margin: 10px 0 10px 30px;
+    color: rgb(204, 204, 204);
+    font-size: 14px;
+}
+
+.h-hav:hover {
+    color: white;
+}
+
+/* 内容 */
+.input-ipt {
+    width: 200px;
+    height: 25px;
+    border: 1px solid black;
+
+}
+
+.lb {
+    width: 50px;
+}
+
+
+
+/* 鼠标移入样式 */
+.sousuo {
+    color: thistle;
+}
+
+.shou:hover {
+    cursor: pointer;
+}
+
+.icon-sousuo {
+    font-size: 12px !important;
+    position: absolute;
+    left: 8px;
+    top: 6px;
+}
+
+/* 内容 */
+.content {
+    background-color: rgb(225, 225, 225);
+}
+
+/* 底部 */
+.line {
+    background-color: darkgrey;
+}
+
+.foot {
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+
+.foot2 {
+    color: rgb(179, 189, 214);
+}
+
+.foot2-img {
+    height: 63px;
+}
+
+.foot3 {
+    color: rgb(7, 145, 214);
+}
+
+.foot3:hover {
+    text-decoration: underline;
+}

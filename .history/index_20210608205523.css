@@ -1,0 +1,143 @@
+.bgc-bj {
+    background-color: rgb(68, 68, 68);
+}
+
+.h-hav {
+    margin: 10px 0 10px 30px;
+    color: rgb(204, 204, 204);
+    font-size: 14px;
+}
+
+.h-hav:hover {
+    color: white;
+}
+
+.input-ipt {
+    width: 200px;
+    height: 25px;
+    text-indent: 2em;
+    background-color: rgb(136, 136, 136);
+    border-radius: 20px;
+
+}
+
+/* 鼠标移入样式 */
+.ipt {
+    background-color: #fff;
+}
+
+.sousuo {
+    color: thistle;
+}
+
+.shou:hover {
+    cursor: pointer;
+}
+
+.icon-sousuo {
+    font-size: 12px !important;
+    position: absolute;
+    left: 8px;
+    top: 6px;
+}
+
+/* 内容 */
+.content {
+    background-color: rgb(225, 225, 225);
+}
+
+.c-l {
+    background-color: rgb(246, 246, 246);
+}
+
+.bt {
+    color: rgb(128, 189, 1);
+    padding: 2px 4px;
+}
+
+.qb {
+    margin-left: 15px;
+}
+
+.bt1:hover {
+    color: black;
+    cursor: pointer;
+}
+
+/* bt的点击事件 */
+.bt-dj {
+    color: white;
+    background-color: rgb(128, 189, 1);
+}
+
+/* 内容的鼠标经过事件 */
+.nr:hover {
+    background-color: rgb(246, 246, 246);
+}
+
+
+.login {
+    width: 113px;
+    margin: 5px 0 0 10px;
+    color: white;
+    background-color: rgb(91, 192, 222);
+}
+
+
+/* 登录鼠标效果 */
+.login:hover {
+    background-color: rgb(47, 150, 180);
+}
+
+.a {
+    color: rgb(192, 189, 189);
+    text-decoration: none;
+}
+
+.a:hover {
+    text-decoration: underline;
+}
+
+.lj>img {
+    width: 150px;
+    padding-left: 10px;
+
+}
+
+.ewm {
+    width: 200px;
+    margin: 10px auto;
+    /* position: ; */
+}
+
+/* 底部 */
+.line {
+    background-color: darkgrey;
+}
+
+.foot {
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+
+.foot2 {
+    color: rgb(179, 189, 214);
+}
+
+.foot2-img {
+    height: 63px;
+}
+
+.foot3 {
+    color: rgb(7, 145, 214);
+}
+
+.foot3:hover {
+    text-decoration: underline;
+}
+
+.shou-xhx:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}

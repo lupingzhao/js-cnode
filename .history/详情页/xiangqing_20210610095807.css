@@ -1,0 +1,122 @@
+.bgc-bj {
+    background-color: rgb(68, 68, 68);
+}
+
+.h-hav {
+    margin: 10px 0 10px 30px;
+    color: rgb(204, 204, 204);
+    font-size: 14px;
+}
+
+.h-hav:hover {
+    color: white;
+}
+
+.input-ipt {
+    width: 200px;
+    height: 25px;
+    text-indent: 2em;
+    background-color: rgb(136, 136, 136);
+    border-radius: 20px;
+
+}
+
+.c-l {
+    background-color: rgb(246, 246, 246);
+}
+
+
+.logo {
+    width: 120px;
+}
+
+/* 鼠标移入样式 */
+.ipt {
+    background-color: #fff;
+}
+
+.sousuo {
+    color: thistle;
+}
+
+.shou:hover {
+    cursor: pointer;
+}
+
+.icon-sousuo {
+    font-size: 12px !important;
+    position: absolute;
+    left: 8px;
+    top: 6px;
+}
+
+/* 内容 */
+.content {
+    background-color: rgb(225, 225, 225);
+}
+
+/* 底部 */
+.line {
+    background-color: darkgrey;
+}
+
+.foot {
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+
+.foot2 {
+    color: rgb(179, 189, 214);
+}
+
+.foot2-img {
+    height: 63px;
+}
+
+.foot3 {
+    color: rgb(7, 145, 214);
+}
+
+.rss:hover {
+    color: rgb(0, 85, 161);
+}
+
+.foot3:hover {
+    cursor: pointer;
+    color: rgb(0, 85, 161);
+    text-decoration: underline;
+}
+
+
+
+/* 获取数据样式 */
+
+/* 置顶样式 */
+.bth {
+    width: 500px;
+}
+
+.zd {
+    border-radius: 2px;
+    color: white;
+    padding: 2px;
+    background-color: rgb(128, 189, 1);
+    margin: 5px;
+}
+
+/* 圆点*/
+.dot {
+    width: 4px;
+    height: 4px;
+    border-radius: 100%;
+    background-color: rgb(131, 131, 131);
+}
+
+.fbt {
+    color: rgb(131, 131, 131);
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+
+}

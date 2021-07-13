@@ -1,0 +1,67 @@
+.bgc-b {
+    background-color: rgb(68, 68, 68);
+}
+
+.m-10 {
+    margin: 10px 0 10px 30px;
+    color: rgb(204, 204, 204);
+    font-size: 14px;
+}
+
+.m-10:hover {
+    color: white;
+}
+
+.input_ipt {
+    width: 200px;
+    height: 25px;
+    text-indent: 2em;
+    background-color: rgb(136, 136, 136);
+    border-radius: 20px;
+
+}
+
+/* 鼠标移入样式 */
+.ipt {
+    background-color: #fff;
+}
+
+.sousuo {
+    color: thistle;
+}
+
+.shou:hover {
+    cursor: pointer;
+}
+
+.icon-sousuo {
+    font-size: 12px !important;
+    position: absolute;
+    left: 8px;
+    top: 6px;
+}
+
+/* 内容 */
+.c-l {
+    background-color: rgb(233, 66, 66);
+}
+
+.bt {
+    color: rgb(178, 231, 246);
+    padding: 2px 4px;
+}
+
+.qb {
+    margin-left: 15px;
+}
+
+.bt:hover {
+    color: black;
+    background-color: teal;
+}
+
+/* bt的点击事件 */
+.bt-dj {
+    color: white;
+    background-color: rgb(128, 189, 1);
+}

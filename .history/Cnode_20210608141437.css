@@ -1,0 +1,13 @@
+.bgc-b {
+    background-color: rgb(68, 68, 68);
+}
+
+.dp-10>div {
+    margin: 10px 0 10px 30px;
+    color: rgb(204, 204, 204);
+    font-size: 14px;
+}
+
+.dp-10>div:hover {
+    color: white;
+}
